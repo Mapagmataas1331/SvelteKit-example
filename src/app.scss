@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: inherit;
+}
+
+body {
+	background: $color-main-7;
+	color: $color-main-2;
+}
+
+a {
+	text-decoration: none;
+
+	&:hover {
+		color: $color-main-3;
+	}
+}

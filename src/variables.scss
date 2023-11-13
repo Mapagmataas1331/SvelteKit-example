@@ -1,0 +1,23 @@
+$color-main-5: #808080;
+
+$color-main-4: lighten($color-main-5, 10%);
+$color-main-3: lighten($color-main-4, 10%);
+$color-main-2: lighten($color-main-3, 10%);
+$color-main-1: lighten($color-main-2, 10%);
+
+$color-main-6: darken($color-main-5, 10%);
+$color-main-7: darken($color-main-6, 10%);
+$color-main-8: darken($color-main-7, 10%);
+$color-main-9: darken($color-main-8, 10%);
+
+$color-additional-5: #0099ff;
+
+$color-additional-4: lighten($color-additional-5, 10%);
+$color-additional-3: lighten($color-additional-4, 10%);
+$color-additional-2: lighten($color-additional-3, 10%);
+$color-additional-1: lighten($color-additional-2, 10%);
+
+$color-additional-6: darken($color-additional-5, 10%);
+$color-additional-7: darken($color-additional-6, 10%);
+$color-additional-8: darken($color-additional-7, 10%);
+$color-additional-9: darken($color-additional-8, 10%);
